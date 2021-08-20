@@ -1,5 +1,5 @@
 {
-    "name":"JustSwap Default List",
+    "name":"Good JustSwap list",
     "tokens":[
         {
             "symbol":"SUN",
@@ -122,7 +122,7 @@
             "logoURI":"https://coin.top/production/logo/TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h.png"
         }
     ],
-    "logoURI":"https://justswap.io/favicon.ico",
+    "logoURI":"https://coin.top/production/logo/TCUj2rqmYws2tGVFenpK7PF1Jh6FLSAQqG.png",
     "version":{
         "patch":1,
         "major":1,

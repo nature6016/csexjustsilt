@@ -1,5 +1,7 @@
 {
-    "name":"Good JustSwap list",
+    "name":"GoodJustSwaplist",
+    "logoURI":"https://coin.top/production/logo/TCUj2rqmYws2tGVFenpK7PF1Jh6FLSAQqG.png",
+    "timestamp":1629498600000,
     "tokens":[
         {
             "symbol":"SUN",
@@ -122,11 +124,9 @@
             "logoURI":"https://coin.top/production/logo/TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h.png"
         }
     ],
-    "logoURI":"https://coin.top/production/logo/TCUj2rqmYws2tGVFenpK7PF1Jh6FLSAQqG.png",
     "version":{
         "patch":1,
         "major":1,
         "minor":0
-    },
-    "timestamp":1629498600000
+    }
 }

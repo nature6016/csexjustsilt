@@ -128,5 +128,5 @@
         "major":1,
         "minor":0
     },
-    "timestamp":1629498600
+    "timestamp":1629498600000
 }

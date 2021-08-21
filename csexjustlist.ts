@@ -1,6 +1,6 @@
 {
     "name":"GoodJustSwaplist",
-    "logoURI":"https://coin.top/production/logo/TCUj2rqmYws2tGVFenpK7PF1Jh6FLSAQqG.png",
+    "logoURI":"https://coin.top/production/upload/logo/TCUj2rqmYws2tGVFenpK7PF1Jh6FLSAQqG.png",
     "timestamp":1629498600000,
     "tokens":[
         {

@@ -126,7 +126,7 @@
     ],
     "version":{
         "patch":1,
-        "major":2,
-        "minor":0
+        "major":1,
+        "minor":1
     }
 }

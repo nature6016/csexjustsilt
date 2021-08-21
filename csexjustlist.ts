@@ -1,7 +1,7 @@
 {
     "name":"GoodJustSwaplist",
     "logoURI":"https://coin.top/production/upload/logo/TCUj2rqmYws2tGVFenpK7PF1Jh6FLSAQqG.png",
-    "timestamp":1629504001000,
+    "timestamp":1629504001001,
     "tokens":[
         {
             "symbol":"SUN",
@@ -49,7 +49,7 @@
             "chainId":1,
             "decimals":2,
             "name":"BCMG",
-            "logoURI":"https://coin.top/production/logo/TCUj2rqmYws2tGVFenpK7PF1Jh6FLSAQqG.png"
+            "logoURI":"https://coin.top/production/upload/logo/TCUj2rqmYws2tGVFenpK7PF1Jh6FLSAQqG.png"
         },
         {
             "symbol":"WTRX",
@@ -127,6 +127,6 @@
     "version":{
         "patch":1,
         "major":1,
-        "minor":1
+        "minor":2
     }
 }
